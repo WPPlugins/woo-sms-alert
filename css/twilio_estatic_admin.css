@@ -1,0 +1,23 @@
+
+
+/* Front Side Css Start */
+
+/* Front Side Css End */
+
+/* ================================================= */
+
+/* Admin Side Css Start */
+@media screen and (min-width: 783px){
+    /*input[type='text'],textarea{
+       width: 50%;
+    }*/
+    .woo_sms_alert_class{
+        width: 100%;
+        max-width: 350px;
+    }
+
+}
+p.error{
+    color: red;
+}
+/* Admin Side Css End */
